@@ -3,3 +3,4 @@ data
 *.xlsx.DS_Store
 data/*
 test.ipynb
+*.xlsx
