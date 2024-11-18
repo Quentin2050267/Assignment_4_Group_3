@@ -45,6 +45,12 @@ Submission by 23:59 hours on 23rd Nov 2024.
 - The report should be well-formatted in A4 size PDF format with a maximum of 5 pages, documenting methodology, analysis, findings, visualizations, and statistical test results.
 - Include all group members' names and matric numbers in the report.
 
----
+### Code Execution Order
 
-**Note:** Please adapt and further customize this Markdown template as needed for your specific assignment requirements and content.
+1. **eda_data_preprocess.ipynb**
+   - Execute the script to collect data from the weekly fund flow reports and stock information.
+   - Run the data cleaning script to preprocess and visualize the collected data.
+
+2. **backtest_evaluation.ipynb**
+   - Execute the backtesting script for both the Smart Retail Flow FT5009 and the Smart Insti Flow FT5009 strategy.
+   - Execute the script to compare and evaluate the two strategies.
