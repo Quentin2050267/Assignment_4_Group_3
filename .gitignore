@@ -1,6 +1,5 @@
-data
 *.pdf
 *.xlsx.DS_Store
-data/*
 test.ipynb
 *.xlsx
+.DS_Store
